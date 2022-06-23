@@ -2,7 +2,7 @@
 ## Escuela Keepcoding
 - Estudiante: Richard Montesdeoca
 
-Respuesta a las preguntas del cuestionario.
+Respuesta a las preguntas del cuestionario:
 11) git reset --hard HEAD~1
 12) git add readme.md, git commit -m "subi de nuevo el git nuestro", git push, porque se borro del del stage y volvi a subir a stage y de nuevo al push.
 13) No me causo ningún conflicto.
